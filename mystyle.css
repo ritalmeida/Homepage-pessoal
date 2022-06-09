@@ -1,0 +1,26 @@
+body{
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3{
+    color: #5863f8;
+    text-align: center;
+}
+
+body{
+    color: #FBF5F3;
+}
+
+td {
+    text-align: left;
+    margin-left: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    float: right;
+    max-height: 300px;
+    max-width: 300px;
+  }
